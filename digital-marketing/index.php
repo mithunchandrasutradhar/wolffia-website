@@ -34,12 +34,12 @@ require('../common/menu.php');
    <main>
 
       <!-- banner-area-start -->
-      <div class="banner-area tpbanner-space-two" data-background="assets/img/banner/banner-2-bg-1.png">
+      <div class="banner-area tpbanner-space-two" data-background="../assets/img/banner/banner-2-bg-1.png">
          <div class="container">
             <div class="row justify-content-center">
                <div class="col-lg-7 col-md-7 order-2 order-md-1">
                   <div class="tpbanner-content-two">
-                     <h1 class="tpbanner-title-two mb-20"><span>Digital Marketing
+                     <h1 class="tpbanner-title-two mb-20"><span>test Digital Marketing
                            <svg width="406" height="40" viewBox="0 0 406 40" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
                               <path d="M3.14977 24.4029C3.14977 24.4029 256.329 -7.75032 398.26 15.5002"

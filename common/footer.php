@@ -64,9 +64,9 @@
                               <li><a href="/pricing">Pricing</a></li>
                               <li><a href="/clients">Clients</a></li>
                               <li><a href="/payment-options">Payment Options</a></li>
-                              <li><a href="/offer">Special Offer</a></li>
+                              <li><a href="/offers">Special Offer</a></li>
                               <li><a href="/resources/">Resources</a></li>
-                              <li><a href="/career">Career</a></li>
+                              <li><a href="/career/">Career</a></li>
                               <li><a href="/support">Support</a></li>
                               <li><a href="/sitemap">Site Map</a></li>
                            </ul>
@@ -127,7 +127,7 @@
                   <div class="col-lg-6 col-md-8">
                      <div class="footer-widget-copyright text-center text-md-start">
                      
-                        <span>Copyright © <?php echo date("Y"); ?> <a
+                        <span>Copyright ©<?php echo date("Y"); ?> <a
                               href="/">Wolffia Digital Solutions.</a> All Rights
                            Reserved.</span>
                      </div>

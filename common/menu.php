@@ -343,14 +343,14 @@
                                  <ul class="tp-submenu submenu ps-xl-3">
                                     <li><a href="/about">About</a></li>
                                     <li><a href="/clients">Clients</a></li>
-                                    <li><a href="/offer">Special Offer</a></li>
+                                    <li><a href="/offers">Special Offer</a></li>
                                     <li><a href="/office-locations">Office Locations</a></li>
                                     <li><a href="/payment-options">Payment Options</a></li>
-                                    <li><a href="/resources">Resources</a></li>
+                                    <li><a href="/resources/">Resources</a></li>
                                     <li><a href="/testimonials">Testimonials</a></li>
                                     <li><a href="/support">Support</a></li>
                                     <li><a href="/team">Team</a></li>
-                                    <li><a href="/career">Career</a></li>
+                                    <li><a href="/career/">Career</a></li>
                                     <li><a href="/contact">Contact</a></li>
                                  </ul>
                               </li>
